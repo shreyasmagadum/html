@@ -1,3 +1,0 @@
-inp="python is very easy"
-inp="".split(inp)
-print([(i,len(i)) for i in inp])
